@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+<!-- Początek kodu do wpisania -->
+
+<script src="https://api.szkolenia-bhp24.pl/assets/connector/start.js"></script>
+<script>
+  (function(){
+    const PLUGIN_API_KEY = 'TUTAJ_WPIS_ACCESS_TOKEN';
+    initSzkoleniaBhpPlugin(PLUGIN_API_KEY);
+  })();
+</script>
+
+<!-- Koniec kodu do wpisania -->
+
+</head>
+...
